@@ -9,7 +9,6 @@ import java.util.HashSet;
 import java.util.Set;
 
 
-
 public class Film{
     String nome;
     String descrizione;
